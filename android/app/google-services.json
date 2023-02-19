@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1090004440164",
+    "project_id": "practice2-ffd60",
+    "storage_bucket": "practice2-ffd60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090004440164:android:b5ad94d71b51a27ef7fb71",
+        "android_client_info": {
+          "package_name": "com.example.practice2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090004440164-5t42j4otb1jrufnh8g3ahq75ko8rudmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.practice2",
+            "certificate_hash": "c2140a825e6d10469af13fc7a2f5361379c61adf"
+          }
+        },
+        {
+          "client_id": "1090004440164-in6fssmmgul79rbs0091n9m1b2ke988l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8aIZA_RxNd9VhVOIc4TiQaQ2B-tJgDnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090004440164-in6fssmmgul79rbs0091n9m1b2ke988l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090004440164:android:33b2b3c5b3c0b84ef7fb71",
+        "android_client_info": {
+          "package_name": "com.example.practice4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090004440164-in6fssmmgul79rbs0091n9m1b2ke988l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8aIZA_RxNd9VhVOIc4TiQaQ2B-tJgDnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090004440164-in6fssmmgul79rbs0091n9m1b2ke988l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
